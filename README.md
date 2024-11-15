@@ -4,10 +4,8 @@
 
 This workshop is designed to help customers have hands-on experiences with the key features of databricks such as following:
 
-1. DI Platfrom: Leverage SQL Assistant to explore the data and get help and suggestion for bug fixes  
-2. UC + Lineage: Work with key features of Unity Catalog, including access control, AI meta suggestion, and Lineage
-3. Lakeview Dashboard: Creating Lakeview Dashboard based on the Lab data, expore Lakeview features
-4. Genie: Explore Genie to quickly get insights on your data using natural language 
+1. DI Platfrom: Work with key features of Unity Catalog, Workflows and SQL Assistant to explore the data and create dashboards 
+2. Genie: Explore Genie to quickly get insights on your data using natural language 
 
 ## Prerequisite 
 
