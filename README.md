@@ -1,14 +1,13 @@
-# 2024 APJ Workshops
+# 2024 ASEAN Workshops
 
 ## Summary
 
 This workshop is designed to help customers have hands-on experiences with the key features of databricks such as following:
 
-1. SQL Warehouse: Using Databricks DBSQL to create tables, insert data, and explore the data for analytics and visualisation
+1. DI Platfrom: Leverage SQL Assistant to explore the data and get help and suggestion for bug fixes  
 2. UC + Lineage: Work with key features of Unity Catalog, including access control, AI meta suggestion, and Lineage
 3. Lakeview Dashboard: Creating Lakeview Dashboard based on the Lab data, expore Lakeview features
-4. DI Platfrom: Leverage SQL Assistant to explore the data and get help and suggestion for bug fixes  
-5. GenAI: Explore GenAI features such as prompt engineering, Vector Search and building your first RAG
+4. Genie: Explore Genie to quickly get insights on your data using natural language 
 
 ## Prerequisite 
 
@@ -23,4 +22,3 @@ This workshop is designed to help customers have hands-on experiences with the k
    Grant create schema permission to all account users to the default catalog "Workshop"
 
     ```GRANT USAGE ON CATALOG workshop TO `account users`;```<br />
-
