@@ -27,7 +27,7 @@ spark.sql(f"GRANT ALL PRIVILEGES ON DATABASE {database_name} to `{current_user_i
 spark.sql(f"USE {database_name}")
 
 # create volume
-spark.sql(f"CREATE VOLUME IF NOT EXISTS your_data")
+spark.sql(f"CREATE VOLUME IF NOT EXISTS byo_data")
 
 # COMMAND ----------
 
