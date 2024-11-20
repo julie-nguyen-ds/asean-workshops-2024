@@ -2,7 +2,7 @@
 SELECT
  `prediction`
 FROM
- `apjworkshop24`.`<your user schema name>`.`shap_explanation`
+ `apjworkshop24`.`shared`.`shap_explanation`
 WHERE
  `first_name` ILIKE '%Georgianna%'
  AND `last_name` ILIKE '%Yellowlees%’
