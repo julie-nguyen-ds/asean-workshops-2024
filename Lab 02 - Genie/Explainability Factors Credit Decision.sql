@@ -1,4 +1,5 @@
 -- Query: What are the most important factors for credit decision for customers aged between 20 and 40?
+-- 对于20到40岁之间的客户，信用决策的最重要因素是什么？
 SELECT
   'age_shap' AS `feature`,
   AVG(ABS(`age_shap`)) AS `shap_avg`
